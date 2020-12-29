@@ -1,0 +1,707 @@
+/*******************************************************
+  ***global section mobile responsive start***************
+*********************************************************/
+
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    /* CSS */
+
+}
+
+/*******************************************************
+  ***global section mobile responsive end***************
+*********************************************************/
+
+
+
+
+/*******************************************************
+  ***Header section mobile responsive start***************
+*********************************************************/
+
+
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    
+    
+    
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    
+}
+
+/*low resouliton start*/
+@media (min-width: 0px) and (max-width: 320px) {
+
+    
+
+}
+
+/*******************************************************
+  ***Header section mobile responsive end***************
+*********************************************************/
+
+
+
+/*******************************************************
+  ***highlight section mobile responsive start***************
+*********************************************************/
+
+
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1196px) {
+   
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+  
+
+
+}
+
+/*low resolution start*/
+
+@media (min-width: 0px) and (max-width: 320px) {
+
+   
+
+
+}
+
+/*******************************************************
+  ***hightlight section mobile responsive end***************
+*********************************************************/
+
+
+
+
+/*******************************************************
+  ***feature section mobile responsive start***************
+*********************************************************/
+
+
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1196px) {
+    
+}
+
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+    
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    
+
+}
+
+/*low resolution start*/
+
+@media (min-width: 0px) and (max-width: 320px) {
+   
+}
+
+/*******************************************************
+  ***feature section mobile responsive end***************
+*********************************************************/
+
+
+/*******************************************************
+  ***Quote section mobile responsive start***************
+*********************************************************/
+
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+   
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+   .portfolio-section .inner-portfolio {
+    width: 63%;
+    float: left;
+    position: relative;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-left: 122px;
+}
+    .stay-section .form-group .cbtn {
+    margin-left: 121px;
+    margin-top: 10px;
+}
+    .stay-section .form-group .btn-primary {
+    padding: 6px 40px;
+    background: transparent;
+    border: 1px solid #15a4fa;
+    font-size: 16px;
+    display: inline-block;
+    color: #fff;
+    border-radius: 2px;
+    transition: 1s;
+    margin-right: 306px;
+}
+    .stay-section .btn-primary:hover{
+     background: #15a4fa;
+    border: 1px solid #15a4fa;
+    color: #fff;
+}
+    .feature-section .inner-feature {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-bottom: 20px;
+}
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+   .stay-section .main-form .form-group .form-control {
+    width: 96%;
+    padding: 15px;
+    background: transparent;
+    border: 2px solid #999999;
+    color: #fff;
+}
+    .stay-section .form-group .cbtn {
+    margin-left: 70px;
+    margin-top: 10px;
+}
+    .stay-section .form-group .btn-primary {
+    padding: 6px 40px;
+    background: transparent;
+    border: 1px solid #15a4fa;
+    font-size: 16px;
+    display: inline-block;
+    color: #fff;
+    border-radius: 2px;
+    transition: 1s;
+    margin-right: 94px;
+}
+    .portfolio-section .inner-portfolio {
+    width: 100%;
+    float: left;
+    position: relative;
+    margin-bottom: 10px;
+}
+}
+
+/*******************************************************
+  ***Quote section mobile responsive end***************
+*********************************************************/
+
+/*******************************************************
+  ***efficiency section mobile responsive start***************
+*********************************************************/
+
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .efficiency-section .right-ef {
+        width: 100%;
+        height: 50%;
+        background: url('../img/ebanner.png') center top no-repeat;
+        background-size: auto;
+        background-size: auto;
+        background-size: cover;
+        margin-top: 199px;
+        margin-left: -9px;
+    }
+
+    .efficiency-section .left-ef h1 {
+        font-size: 35px;
+        font-weight: 900;
+        line-height: 45px;
+        margin-bottom: 30px;
+    }
+
+    .efficiency-section .left-ef .content-para {
+        font-size: 9px;
+        font-weight: 600;
+        line-height: 19px;
+        margin-bottom: 33px;
+    }
+
+    .efficiency-section .left-ef .img-content1 {
+        font-size: 12px;
+        font-weight: 900;
+    }
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    .efficiency-section {
+        width: 100%;
+        padding: 0px 0px 50px;
+    }
+
+
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .efficiency-section {
+        width: 100%;
+        padding: 0px 0px 28px;
+    }
+
+    .efficiency-section .left-ef h1 {
+        font-size: 24px;
+        font-weight: 900;
+        line-height: 30px;
+        margin-bottom: 14px;
+    }
+
+    .efficiency-section .left-ef .content-para {
+        font-size: 9px;
+        font-weight: 600;
+        line-height: 20px;
+        margin-bottom: 33px;
+    }
+
+    .efficiency-section .left-ef .img-content1 {
+        font-size: 11px;
+        font-weight: 900;
+    }
+
+    .efficiency-section .left-ef .img-content2 {
+        font-size: 11px;
+        font-weight: 900;
+    }
+
+}
+
+/*******************************************************
+  ***efficiency section mobile responsive end***************
+*********************************************************/
+
+
+
+/*******************************************************
+  ***portfoli section mobile responsive start***************
+*********************************************************/
+
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    /* CSS */
+
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    .portfolio .title-portfolio h1 {
+        font-size: 25px;
+        font-weight: 900;
+        line-height: 35px;
+        margin-bottom: 20px;
+    }
+
+    .portfolio .title-portfolio p {
+        font-size: 11px;
+        font-weight: 600;
+        line-height: 20px;
+        margin-bottom: 33px;
+    }
+
+    .portfolio .img-box p {
+        font-size: 9px;
+        font-weight: 700;
+        line-height: 20px;
+    }
+
+    .portfolio .img-box img {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 10px;
+    }
+
+    .portfolio .img-box h1 {
+        font-size: 12px;
+        font-weight: 900;
+    }
+
+    .portfolio .col-md-4 {
+        position: relative;
+        width: 33%;
+        padding-right: 8px;
+        padding-left: 0px;
+    }
+
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .portfolio {
+        width: 100%;
+        padding: 39px 0px;
+        text-align: center;
+        background: #fcfcfc;
+    }
+
+    .portfolio .title-portfolio h1 {
+        font-size: 25px;
+        font-weight: 900;
+        line-height: 35px;
+        margin-bottom: 25px;
+    }
+
+    .portfolio .title-portfolio p {
+        font-size: 9px;
+        font-weight: 600;
+        line-height: 19px;
+        margin-bottom: 0px;
+    }
+
+    .portfolio .img-box img {
+        width: 50px;
+        height: 50px;
+        margin-bottom: 10px;
+    }
+
+    .portfolio .img-box h1 {
+        font-size: 14px;
+        font-weight: 900;
+    }
+
+    .portfolio .img-box p {
+        font-size: 10px;
+        font-weight: 700;
+        line-height: 20px;
+    }
+
+    .portfolio .col-md-4 {
+        position: relative;
+        width: 33%;
+        padding-right: 8px;
+        padding-left: 0px;
+    }
+
+    .portfolio .img-box p {
+        font-size: 7px;
+        font-weight: 700;
+        line-height: 14px;
+    }
+
+}
+
+/*******************************************************
+  ***portfolio section mobile responsive end***************
+*********************************************************/
